@@ -20,3 +20,5 @@ I'm still learning Python and Git, and this repository is part of my learning jo
 GitHub Username: yourRian
 
 Author: Mary Ann Elijan
+
+Final commit for the midterm source files demonstration.
